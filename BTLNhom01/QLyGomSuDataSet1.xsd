@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="QLyGomSuDataSet1" targetNamespace="http://tempuri.org/QLyGomSuDataSet1.xsd" xmlns:mstns="http://tempuri.org/QLyGomSuDataSet1.xsd" xmlns="http://tempuri.org/QLyGomSuDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLyGomSuConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLyGomSuConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.BTLNhom01.Properties.Settings.GlobalReference.Default.QLyGomSuConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="View_Top5HoaDonNhap2022TableAdapter" GeneratorDataComponentClassName="View_Top5HoaDonNhap2022TableAdapter" Name="View_Top5HoaDonNhap2022" UserDataComponentName="View_Top5HoaDonNhap2022TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLyGomSuConnectionString (Settings)" DbObjectName="QLyGomSu.dbo.View_Top5HoaDonNhap2022" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT SoHDN, TenNV, NgayNhap, TenNCC, TongTien FROM dbo.View_Top5HoaDonNhap2022</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="SoHDN" DataSetColumn="SoHDN" />
+              <Mapping SourceColumn="TenNV" DataSetColumn="TenNV" />
+              <Mapping SourceColumn="NgayNhap" DataSetColumn="NgayNhap" />
+              <Mapping SourceColumn="TenNCC" DataSetColumn="TenNCC" />
+              <Mapping SourceColumn="TongTien" DataSetColumn="TongTien" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="QLyGomSuDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="QLyGomSuDataSet1" msprop:Generator_DataSetName="QLyGomSuDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="View_Top5HoaDonNhap2022" msprop:Generator_RowEvHandlerName="View_Top5HoaDonNhap2022RowChangeEventHandler" msprop:Generator_RowDeletedName="View_Top5HoaDonNhap2022RowDeleted" msprop:Generator_RowDeletingName="View_Top5HoaDonNhap2022RowDeleting" msprop:Generator_RowEvArgName="View_Top5HoaDonNhap2022RowChangeEvent" msprop:Generator_TablePropName="View_Top5HoaDonNhap2022" msprop:Generator_RowChangedName="View_Top5HoaDonNhap2022RowChanged" msprop:Generator_RowChangingName="View_Top5HoaDonNhap2022RowChanging" msprop:Generator_TableClassName="View_Top5HoaDonNhap2022DataTable" msprop:Generator_RowClassName="View_Top5HoaDonNhap2022Row" msprop:Generator_TableVarName="tableView_Top5HoaDonNhap2022" msprop:Generator_UserTableName="View_Top5HoaDonNhap2022">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SoHDN" msprop:Generator_ColumnPropNameInRow="SoHDN" msprop:Generator_ColumnPropNameInTable="SoHDNColumn" msprop:Generator_ColumnVarNameInTable="columnSoHDN" msprop:Generator_UserColumnName="SoHDN" type="xs:int" />
+              <xs:element name="TenNV" msprop:Generator_ColumnPropNameInRow="TenNV" msprop:Generator_ColumnPropNameInTable="TenNVColumn" msprop:Generator_ColumnVarNameInTable="columnTenNV" msprop:Generator_UserColumnName="TenNV">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NgayNhap" msprop:Generator_ColumnPropNameInRow="NgayNhap" msprop:Generator_ColumnPropNameInTable="NgayNhapColumn" msprop:Generator_ColumnVarNameInTable="columnNgayNhap" msprop:Generator_UserColumnName="NgayNhap" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TenNCC" msprop:Generator_ColumnPropNameInRow="TenNCC" msprop:Generator_ColumnPropNameInTable="TenNCCColumn" msprop:Generator_ColumnVarNameInTable="columnTenNCC" msprop:Generator_UserColumnName="TenNCC">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TongTien" msprop:Generator_ColumnPropNameInRow="TongTien" msprop:Generator_ColumnPropNameInTable="TongTienColumn" msprop:Generator_ColumnVarNameInTable="columnTongTien" msprop:Generator_UserColumnName="TongTien" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:View_Top5HoaDonNhap2022" />
+      <xs:field xpath="mstns:SoHDN" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

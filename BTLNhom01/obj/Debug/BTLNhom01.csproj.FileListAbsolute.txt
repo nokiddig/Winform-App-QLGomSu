@@ -1,0 +1,237 @@
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\bin\Debug\BTLNhom01.exe.config
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\bin\Debug\BTLNhom01.exe
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\bin\Debug\BTLNhom01.pdb
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.AssemblyReference.cache
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.Properties.Resources.resources
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.GenerateResource.cache
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.CoreCompileInputs.cache
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.exe
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.pdb
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.CopyComplete
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormMainMenu.resources
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormNhanVien.resources
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormSanPham.resources
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\bin\Debug\Guna.UI2.dll
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\bin\Debug\QLBanGom.mdf
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\bin\Debug\QLBanGom_log.ldf
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormCongViec.resources
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormKhachHang.resources
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormNhaCungCap.resources
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormHDB.resources
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormHDN.resources
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemSanPham.resources
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemNhanVien.resources
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemKhachHang.resources
+C:\Users\User\Máy tính\Ki1Nam3\LTTQ\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormLogin.resources
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\bin\Debug\QLBanGom.mdf
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\bin\Debug\QLBanGom_log.ldf
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\bin\Debug\BTLNhom01.exe.config
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\bin\Debug\BTLNhom01.exe
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\bin\Debug\BTLNhom01.pdb
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\bin\Debug\Guna.UI2.dll
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.AssemblyReference.cache
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormMainMenu.resources
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormCongViec.resources
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormHDB.resources
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormHDN.resources
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormKhachHang.resources
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormLogin.resources
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormNhaCungCap.resources
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormNhanVien.resources
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormSanPham.resources
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemKhachHang.resources
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemNhanVien.resources
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemSanPham.resources
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.Properties.Resources.resources
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.GenerateResource.cache
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.CoreCompileInputs.cache
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.CopyComplete
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.exe
+C:\Users\luong\Documents\KI_5\Lap_trinh_truc_quang_Csharp\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.pdb
+D:\BTLNhom01\BTLNhom01\BTLNhom01\bin\Debug\BTLNhom01.exe.config
+D:\BTLNhom01\BTLNhom01\BTLNhom01\bin\Debug\BTLNhom01.exe
+D:\BTLNhom01\BTLNhom01\BTLNhom01\bin\Debug\BTLNhom01.pdb
+D:\BTLNhom01\BTLNhom01\BTLNhom01\bin\Debug\FontAwesome.Sharp.dll
+D:\BTLNhom01\BTLNhom01\BTLNhom01\bin\Debug\Guna.Charts.WinForms.dll
+D:\BTLNhom01\BTLNhom01\BTLNhom01\bin\Debug\Guna.UI2.dll
+D:\BTLNhom01\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.AssemblyReference.cache
+D:\BTLNhom01\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.SuggestedBindingRedirects.cache
+D:\BTLNhom01\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormMainMenu.resources
+D:\BTLNhom01\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormCongViec.resources
+D:\BTLNhom01\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormHDB.resources
+D:\BTLNhom01\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormHDN.resources
+D:\BTLNhom01\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormKhachHang.resources
+D:\BTLNhom01\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormLogin.resources
+D:\BTLNhom01\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormNhaCungCap.resources
+D:\BTLNhom01\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormNhanVien.resources
+D:\BTLNhom01\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormSanPham.resources
+D:\BTLNhom01\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemKhachHang.resources
+D:\BTLNhom01\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemNhanVien.resources
+D:\BTLNhom01\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemSanPham.resources
+D:\BTLNhom01\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.Properties.Resources.resources
+D:\BTLNhom01\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.GenerateResource.cache
+D:\BTLNhom01\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.CoreCompileInputs.cache
+D:\BTLNhom01\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.CopyComplete
+D:\BTLNhom01\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.exe
+D:\BTLNhom01\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.pdb
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\bin\Debug\BTLNhom01.exe.config
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\bin\Debug\BTLNhom01.exe
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\bin\Debug\BTLNhom01.pdb
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\bin\Debug\FontAwesome.Sharp.dll
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\bin\Debug\Guna.Charts.WinForms.dll
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\bin\Debug\Guna.UI2.dll
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.AssemblyReference.cache
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.SuggestedBindingRedirects.cache
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormMainMenu.resources
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormCongViec.resources
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormHDB.resources
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormHDN.resources
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormKhachHang.resources
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormLogin.resources
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormNhaCungCap.resources
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormNhanVien.resources
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormSanPham.resources
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemKhachHang.resources
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemNhanVien.resources
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemSanPham.resources
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.Properties.Resources.resources
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.GenerateResource.cache
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.CoreCompileInputs.cache
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.CopyComplete
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.exe
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.pdb
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormSuaKhachHang.resources
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormSuaNhaCungCap.resources
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemNhaCungCap.resources
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.Forms.HoaDonBan.FormLapHDB.resources
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormSuaNhanVien.resources
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.Forms.HoaDonBan.FormThongTinHDB.resources
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.Forms.HoaDonNhap.FormLapHDN.resources
+D:\BTL_LTTQ_CSDL\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.Forms.HoaDonNhap.FormThongTinHDN.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\bin\Debug\BTLNhom01.exe.config
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\bin\Debug\BTLNhom01.exe
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\bin\Debug\BTLNhom01.pdb
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\bin\Debug\Guna.UI2.dll
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormMainMenu.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.Forms.HoaDonNhap.FormLapHDN.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.Forms.HoaDonBan.FormLapHDB.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.Forms.HoaDonNhap.FormThongTinHDN.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.Forms.HoaDonBan.FormThongTinHDB.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormSuaNhaCungCap.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormSuaKhachHang.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemNhaCungCap.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormCongViec.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormHDB.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormHDN.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormKhachHang.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormLogin.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormNhaCungCap.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormNhanVien.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormSuaNhanVien.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormSanPham.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemKhachHang.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemNhanVien.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemSanPham.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.Properties.Resources.resources
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.CopyComplete
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.exe
+C:\Users\User\Downloads\Telegram Desktop\BTLNhom01_Winform\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.pdb
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\BTLNhom01.exe.config
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\BTLNhom01.exe
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\BTLNhom01.pdb
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\Guna.UI2.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.AssemblyReference.cache
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormMainMenu.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.Forms.HoaDonNhap.FormLapHDN.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.Forms.HoaDonBan.FormLapHDB.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.Forms.HoaDonNhap.FormThongTinHDN.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.Forms.HoaDonBan.FormThongTinHDB.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormSuaNhaCungCap.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormSuaKhachHang.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemNhaCungCap.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormCongViec.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormHDB.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormHDN.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormKhachHang.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormLogin.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormNhaCungCap.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormNhanVien.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormSuaNhanVien.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormSanPham.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemKhachHang.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemNhanVien.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.FormThemSanPham.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.Properties.Resources.resources
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.GenerateResource.cache
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.CoreCompileInputs.cache
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.csproj.CopyComplete
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.exe
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.pdb
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\EnvDTE.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\stdole.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luong\Documents\KI_5\BTL_CSDL_C#\BTLNhom01\BTLNhom01\obj\Debug\BTLNhom01.Forms.BaoCao.FormReport.resources
