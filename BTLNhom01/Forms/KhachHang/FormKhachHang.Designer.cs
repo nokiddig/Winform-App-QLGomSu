@@ -99,7 +99,8 @@
             dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.guna2DataGridView1.DefaultCellStyle = dataGridViewCellStyle6;
             this.guna2DataGridView1.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(245)))), ((int)(((byte)(250)))));
-            this.guna2DataGridView1.Location = new System.Drawing.Point(31, 127);
+            this.guna2DataGridView1.Location = new System.Drawing.Point(23, 103);
+            this.guna2DataGridView1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.guna2DataGridView1.Name = "guna2DataGridView1";
             this.guna2DataGridView1.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
             dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
@@ -121,7 +122,7 @@
             this.guna2DataGridView1.RowTemplate.DefaultCellStyle.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2DataGridView1.RowTemplate.DefaultCellStyle.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
             this.guna2DataGridView1.RowTemplate.Height = 50;
-            this.guna2DataGridView1.Size = new System.Drawing.Size(1075, 523);
+            this.guna2DataGridView1.Size = new System.Drawing.Size(806, 425);
             this.guna2DataGridView1.TabIndex = 5;
             this.guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.BackColor = System.Drawing.Color.White;
             this.guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -194,17 +195,19 @@
             this.panelTool.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelTool.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.panelTool.Location = new System.Drawing.Point(0, 0);
+            this.panelTool.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panelTool.Name = "panelTool";
-            this.panelTool.Size = new System.Drawing.Size(1132, 110);
+            this.panelTool.Size = new System.Drawing.Size(849, 89);
             this.panelTool.TabIndex = 6;
             // 
             // PanelSearch
             // 
             this.PanelSearch.Controls.Add(this.txtSearch);
             this.PanelSearch.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.PanelSearch.Location = new System.Drawing.Point(225, 0);
+            this.PanelSearch.Location = new System.Drawing.Point(169, 0);
+            this.PanelSearch.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.PanelSearch.Name = "PanelSearch";
-            this.PanelSearch.Size = new System.Drawing.Size(633, 110);
+            this.PanelSearch.Size = new System.Drawing.Size(474, 89);
             this.PanelSearch.TabIndex = 2;
             // 
             // txtSearch
@@ -224,13 +227,12 @@
             this.txtSearch.Font = new System.Drawing.Font("Segoe UI", 13.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSearch.ForeColor = System.Drawing.Color.Gainsboro;
             this.txtSearch.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.txtSearch.Location = new System.Drawing.Point(132, 35);
-            this.txtSearch.Margin = new System.Windows.Forms.Padding(4);
+            this.txtSearch.Location = new System.Drawing.Point(99, 28);
             this.txtSearch.Name = "txtSearch";
             this.txtSearch.PasswordChar = '\0';
             this.txtSearch.PlaceholderText = "Tìm kiếm ...";
             this.txtSearch.SelectedText = "";
-            this.txtSearch.Size = new System.Drawing.Size(394, 54);
+            this.txtSearch.Size = new System.Drawing.Size(296, 44);
             this.txtSearch.TabIndex = 4;
             // 
             // guna2Panel2
@@ -239,8 +241,9 @@
             this.guna2Panel2.Controls.Add(this.label1);
             this.guna2Panel2.Dock = System.Windows.Forms.DockStyle.Left;
             this.guna2Panel2.Location = new System.Drawing.Point(0, 0);
+            this.guna2Panel2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.guna2Panel2.Name = "guna2Panel2";
-            this.guna2Panel2.Size = new System.Drawing.Size(225, 110);
+            this.guna2Panel2.Size = new System.Drawing.Size(169, 89);
             this.guna2Panel2.TabIndex = 5;
             // 
             // cmbChoice
@@ -262,9 +265,10 @@
             "Địa chỉ",
             "Điện thoại"});
             this.cmbChoice.ItemsAppearance.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.cmbChoice.Location = new System.Drawing.Point(31, 38);
+            this.cmbChoice.Location = new System.Drawing.Point(23, 31);
+            this.cmbChoice.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.cmbChoice.Name = "cmbChoice";
-            this.cmbChoice.Size = new System.Drawing.Size(181, 51);
+            this.cmbChoice.Size = new System.Drawing.Size(137, 51);
             this.cmbChoice.StartIndex = 0;
             this.cmbChoice.TabIndex = 0;
             // 
@@ -273,9 +277,10 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Gainsboro;
-            this.label1.Location = new System.Drawing.Point(27, 12);
+            this.label1.Location = new System.Drawing.Point(20, 10);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(127, 23);
+            this.label1.Size = new System.Drawing.Size(105, 19);
             this.label1.TabIndex = 1;
             this.label1.Text = "Tìm kiếm theo";
             // 
@@ -283,9 +288,10 @@
             // 
             this.guna2Panel3.Controls.Add(this.btnSearch);
             this.guna2Panel3.Dock = System.Windows.Forms.DockStyle.Right;
-            this.guna2Panel3.Location = new System.Drawing.Point(858, 0);
+            this.guna2Panel3.Location = new System.Drawing.Point(643, 0);
+            this.guna2Panel3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.guna2Panel3.Name = "guna2Panel3";
-            this.guna2Panel3.Size = new System.Drawing.Size(274, 110);
+            this.guna2Panel3.Size = new System.Drawing.Size(206, 89);
             this.guna2Panel3.TabIndex = 5;
             // 
             // btnSearch
@@ -303,11 +309,13 @@
             this.btnSearch.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.btnSearch.ForeColor = System.Drawing.Color.White;
             this.btnSearch.HoverState.FillColor = System.Drawing.Color.CornflowerBlue;
-            this.btnSearch.Location = new System.Drawing.Point(93, 35);
+            this.btnSearch.Location = new System.Drawing.Point(70, 28);
+            this.btnSearch.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnSearch.Name = "btnSearch";
-            this.btnSearch.Size = new System.Drawing.Size(107, 54);
+            this.btnSearch.Size = new System.Drawing.Size(80, 44);
             this.btnSearch.TabIndex = 1;
             this.btnSearch.Text = "Tìm";
+            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
             // guna2Panel1
             // 
@@ -315,9 +323,10 @@
             this.guna2Panel1.Controls.Add(this.btnUpdate);
             this.guna2Panel1.Controls.Add(this.btnDelete);
             this.guna2Panel1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.guna2Panel1.Location = new System.Drawing.Point(0, 656);
+            this.guna2Panel1.Location = new System.Drawing.Point(0, 533);
+            this.guna2Panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.guna2Panel1.Name = "guna2Panel1";
-            this.guna2Panel1.Size = new System.Drawing.Size(1132, 87);
+            this.guna2Panel1.Size = new System.Drawing.Size(849, 71);
             this.guna2Panel1.TabIndex = 7;
             // 
             // btnAdd
@@ -334,9 +343,10 @@
             this.btnAdd.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.btnAdd.ForeColor = System.Drawing.Color.White;
             this.btnAdd.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.btnAdd.Location = new System.Drawing.Point(999, 12);
+            this.btnAdd.Location = new System.Drawing.Point(749, 10);
+            this.btnAdd.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(107, 54);
+            this.btnAdd.Size = new System.Drawing.Size(80, 44);
             this.btnAdd.TabIndex = 2;
             this.btnAdd.Text = "Thêm";
             this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
@@ -355,9 +365,10 @@
             this.btnUpdate.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.btnUpdate.ForeColor = System.Drawing.Color.White;
             this.btnUpdate.HoverState.FillColor = System.Drawing.Color.Goldenrod;
-            this.btnUpdate.Location = new System.Drawing.Point(751, 12);
+            this.btnUpdate.Location = new System.Drawing.Point(563, 10);
+            this.btnUpdate.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnUpdate.Name = "btnUpdate";
-            this.btnUpdate.Size = new System.Drawing.Size(107, 54);
+            this.btnUpdate.Size = new System.Drawing.Size(80, 44);
             this.btnUpdate.TabIndex = 3;
             this.btnUpdate.Text = "Sửa";
             this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
@@ -376,22 +387,24 @@
             this.btnDelete.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.btnDelete.ForeColor = System.Drawing.Color.White;
             this.btnDelete.HoverState.FillColor = System.Drawing.Color.Maroon;
-            this.btnDelete.Location = new System.Drawing.Point(877, 12);
+            this.btnDelete.Location = new System.Drawing.Point(658, 10);
+            this.btnDelete.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnDelete.Name = "btnDelete";
-            this.btnDelete.Size = new System.Drawing.Size(107, 54);
+            this.btnDelete.Size = new System.Drawing.Size(80, 44);
             this.btnDelete.TabIndex = 3;
             this.btnDelete.Text = "Xóa";
             this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
             // FormKhachHang
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(33)))), ((int)(((byte)(74)))));
-            this.ClientSize = new System.Drawing.Size(1132, 743);
+            this.ClientSize = new System.Drawing.Size(849, 604);
             this.Controls.Add(this.guna2Panel1);
             this.Controls.Add(this.panelTool);
             this.Controls.Add(this.guna2DataGridView1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "FormKhachHang";
             this.Text = "Khách hàng";
             this.Load += new System.EventHandler(this.FormKhachHang_Load);

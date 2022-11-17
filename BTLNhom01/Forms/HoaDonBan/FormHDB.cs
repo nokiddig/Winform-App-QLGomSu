@@ -85,5 +85,66 @@ namespace BTLNhom01
 
             }
         }
+
+        private Boolean ValidateSearch()
+        {
+            int choice = cmbChoice.SelectedIndex;
+            if (choice == 3)
+            {
+                return true;
+            }
+            Boolean isNumber = true;
+            string input = "";
+            if (choice < 3)
+            {
+                input = txtSearch.Text;
+            }
+            else
+            {
+                input = txtFrom.Text + txtTo.Text;
+            }
+            foreach (Char c in input)
+            {
+                if (!Char.IsDigit(c))
+                    isNumber = false;
+            }
+            if (!isNumber)
+            {
+                MessageBox.Show("Hãy nhập đúng định dạng số nguyên!", "Thông báo!");
+                return false;
+            }
+            return true;
+        }
+
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            if (!ValidateSearch())
+            {
+                return;
+            }
+
+            switch (cmbChoice.SelectedIndex)
+            {
+                case 0:
+                    guna2DataGridView1.DataSource = dbConfig.GetTable($"exec dbo.SP_LietKeThongTinHDB @soHDB = {txtSearch.Text}");
+                    break;
+                case 1:
+                    guna2DataGridView1.DataSource = dbConfig.GetTable($"exec dbo.SP_LietKeThongTinHDB @manv = {txtSearch.Text}");
+                    break;
+                case 2:
+                    guna2DataGridView1.DataSource = dbConfig.GetTable($"exec dbo.SP_LietKeThongTinHDB @ngayBanFrom = '{dtpFrom.Value}', @ngayBanTo = '{dtpTo.Value}'");
+                    break;
+                case 3:
+                    guna2DataGridView1.DataSource = dbConfig.GetTable($"exec dbo.SP_LietKeThongTinHDB @makhach = {txtSearch.Text}");
+                    break;
+                case 4:
+                    guna2DataGridView1.DataSource = dbConfig.GetTable($"exec dbo.SP_LietKeThongTinHDB @tongTienFrom = {Int32.Parse(txtFrom.Text)}, @TongTienTo = {Int32.Parse(txtTo.Text)}");
+                    break;
+                default:
+                    break;
+            }
+
+            MessageBox.Show("Đã tìm kiếm được " + guna2DataGridView1.RowCount + " kết quả.", "Thông báo!");
+        }
     }
 }

@@ -73,5 +73,52 @@ namespace BTLNhom01
 
             }
         }
+
+        private Boolean ValidateSearch()
+        {
+            int choice = cmbChoice.SelectedIndex;
+            string input = txtSearch.Text;
+            Boolean isNumber = true;
+            foreach (Char c in input)
+            {
+                if (!Char.IsDigit(c))
+                {
+                    isNumber = false;
+                }
+            }
+            if (choice == 0 && !isNumber)
+            {
+                MessageBox.Show("Hãy nhập mã khách hàng là một số nguyên!", "Thông báo!");
+                return false;
+            }
+            return true;
+        }
+
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            if (!ValidateSearch())
+            {
+                return;
+            }
+            switch (cmbChoice.SelectedIndex)
+            {
+                case 0:
+                    guna2DataGridView1.DataSource = dbConfig.GetTable($"exec dbo.SP_LietKeThongTinKH @makh = {txtSearch.Text}");
+                    break;
+                case 1:
+                    guna2DataGridView1.DataSource = dbConfig.GetTable($"exec dbo.SP_LietKeThongTinKH @tenkhach = N'{txtSearch.Text}'");
+                    break;
+                case 2:
+                    guna2DataGridView1.DataSource = dbConfig.GetTable($"exec dbo.SP_LietKeThongTinKH @diachi = N'{txtSearch.Text}'");
+                    break;
+                case 3:
+                    guna2DataGridView1.DataSource = dbConfig.GetTable($"exec dbo.SP_LietKeThongTinKH @dienthoai = N'{txtSearch.Text}'");
+                    break;
+                default:
+                    break;
+            }
+
+            MessageBox.Show("Đã tìm kiếm được " + guna2DataGridView1.RowCount + " kết quả.", "Thông báo!");
+        }
     }
 }

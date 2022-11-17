@@ -74,5 +74,27 @@ namespace BTLNhom01
 
             }
         }
+
+        
+
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            switch (cmbChoice.SelectedIndex)
+            {
+                case 0:
+                    guna2DataGridView1.DataSource = dbConfig.GetTable($"exec dbo.SP_LietKeThongTinNV @tenNV = N'{txtSearch.Text}'");
+                    break;
+                case 1:
+                    guna2DataGridView1.DataSource = dbConfig.GetTable($"exec dbo.SP_LietKeThongTinNV @gioitinh = N'{txtSearch.Text}'");
+                    break;
+                case 2:
+                    guna2DataGridView1.DataSource = dbConfig.GetTable($"exec dbo.SP_LietKeThongTinNV @diachi = N'{txtSearch.Text}'");
+                    break;
+                default:
+                    break;
+            }
+
+            MessageBox.Show("Đã tìm kiếm được " + guna2DataGridView1.RowCount + " kết quả.", "Thông báo!");
+        }
     }
 }

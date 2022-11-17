@@ -12,7 +12,7 @@ namespace BTLNhom01
     {
         static DBConfig instance = new DBConfig();
 
-        private const string STRING_CONNNECT = "Data Source=DESKTOP-RDC3D90\\SQLEXPRESS;Initial Catalog=QLyGomSu;Integrated Security=True";
+        private const string STRING_CONNNECT = "Data Source=SYLV\\SQLEXPRESS;Initial Catalog=QLyGomSu;Integrated Security=True";
         private SqlDataAdapter sqlDataAdapter;
         private SqlCommand sqlCommand;
 
